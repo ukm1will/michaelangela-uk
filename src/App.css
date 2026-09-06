@@ -1,0 +1,105 @@
+
+.highlightedScore {
+  background-color: lightsteelblue;
+  padding: 5px;
+}
+
+.nonHighlightedScore {
+  padding: 5px;
+}
+
+.totalScore {
+  background-color: #61dafb;
+  padding: 10px;
+}
+
+.currentSortColumn {
+  background-color: #61dafb;
+  padding: 10px;
+}
+
+.highlightedSortColumn {
+  background-color: darkslateblue;
+  color: #EFF0F0;
+  padding: 5px;
+}
+
+.message {
+  text-align: center;
+  font-weight: bold;
+  padding: 50px;
+}
+
+.note {
+  color: navy;
+  text-align: center;
+  padding: 100px 0px 0px 0px;
+}
+
+.my-message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  padding: 0 0 25px 0;
+}
+
+.divLogo {
+  padding-top: 20px;
+}
+
+.centre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.toHomePage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 25px 10px 5px 10px;
+  font-weight: bold;
+}
+
+.convert-button {
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 45px;
+
+}
+
+.padding-after-table {
+ padding-top: 100px;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.float-child {
+  float: left;
+}
+
+.inner {
+  position: absolute;
+  padding-left: 5px;
+}
+
+.toolTipColumn {
+  color: orange;
+}
+
+.list-group {
+  padding-right: 25%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.list-group .list-group-item {
+  background-color: lightblue;
+}
+
+

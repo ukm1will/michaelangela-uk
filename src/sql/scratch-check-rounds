@@ -1,0 +1,7 @@
+﻿SELECT player, score
+FROM round_two
+ORDER BY score
+
+
+
+
